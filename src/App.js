@@ -10,8 +10,8 @@ function App() {
   return (
     <div>
       <Auth0Provider
-        domain="dev-arzp4dql.us.auth0.com"
-        clientId="nFlhlL7kdZL1z9LPxmWJZdLKA5OGW4ah"
+        domain=" "
+        clientId=" "
         redirectUri="http://localhost:3000/home"
       >
         <Routes>
